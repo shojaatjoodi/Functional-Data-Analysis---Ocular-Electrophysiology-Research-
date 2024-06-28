@@ -1,0 +1,25 @@
+id_record,date,age_years,sex,diagnosis1,va_re_logMar,va_le_logMar
+0013,3/30/2017,55,Female,Paracentral acute middle maculopathy type 2,0.52,-0.04
+0022,12/31/2014,19,Male,Bilateral optic nerve atrophy,0.22,0.1
+0030,8/14/2014,65,Female,Autoimmune retinopathy,0.14,0.16
+0069,4/5/2007,49,Female,Foveal hypoplasia,0.4,1
+0100,10/6/2005,13,Male,Inherited optic atrophy,0.5,0.5
+0102,10/23/2004,36,Male,Blue cone monochromatism,1,0.98
+0103,11/7/2003,63,Female,Chorioretinopathy Birdshot type,0.8,0.12
+0107,1/5/2022,23,Female,Albinoidism ,0.06,0.16
+0153,3/25/2021,29,Female,Infectious neuritis,0.2,0.6
+0154,10/26/2006,37,Female,Orbital ischemia,0.12,-0.04
+0169,10/11/2007,59,Male,Optic neuropathy,0,1.3
+0204,6/29/2005,51,Male,Traumatic optic neuropathy,3,-0.08
+0207,4/10/2008,51,Female,Sarcoidosis neuropathy,3,3
+0227,8/28/2015,11,Female,Cone-Rod dystrophy,0.44,0.48
+0235,11/24/2006,57,Female,Arterio-venous malformation in right thalamus,1,0.8
+0236,1/1/2013,7,Male,Albinism,0.3,0.3
+0237,1/2/2014,7,Female,Central nervous system disorder,0.8,0.7
+0248,9/29/2004,54,Male,Bilateral Optic Atrophy,1.3,3
+0254,3/8/2017,38,Female,External ophthalmoplegia,0.04,0.06
+0287,11/29/2017,41,Male,Congenital Achromatopsia,0.7,0.7
+0288,10/16/2004,18,Male,Macular dystrophy,0.8,0.26
+0294,6/17/2006,23,Male,Anisometropic amblyopia,0.98,0.14
+0306,1/15/2004,59,Female,Acute macular neuroretinopathy,0.02,-0.06
+0309,5/8/2015,39,Male,Normal,-0.06,-0.06

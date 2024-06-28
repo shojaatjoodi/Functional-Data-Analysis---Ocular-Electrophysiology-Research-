@@ -1,0 +1,14 @@
+id_record,date,age_years,sex,diagnosis1,diagnosis2,diagnosis3,va_re_logMar,va_le_logMar,unilateral,rep_record,comments
+1,9/15/2016,13,Male,Normal,,,-0.08,0.06,,,
+8,1/24/2007,10,Female,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,1,0.98,,,
+16,5/19/2004,12,Male,Macular dystrophy,Stargardt disease,Fundus flavimaculatus,0.7,0.8,,,
+21,3/11/2006,6,Female,Congenital achromatopsia,,,1.3,1.3,,,
+60,5/19/2016,7,Male,Congenital achromatopsia,,,0,0,,,
+133,5/26/2014,52,Male,Bilateral optic nerve atrophy,Glaucoma,,0.54,0.32,,,
+221,4/9/2020,47,Male,Autoimmune retinopathy,Inflammatory disease,,-0.04,-0.08,,Id:0252 - Id:0332 - Id:0126,
+249,3/15/2017,4,Male,Albinism,Congenital abnormality of the retina,,0.3,0.3,,,Family history of retinitis pigmentosa
+271,11/8/2007,38,Female,Orbital ischemia,Systemic disorder with ocular manifestations,,0.08,-0.04,,Id:0049 - Id:0003 - Id:0329 - Id:0154,
+275,9/5/2018,72,Male,Autoimmune retinopathy,Inflammatory disease,,0.1,0.06,,,Similar to retinitis pigmentosa
+277,7/11/2003,40,Female,Normal,,,0,0.8,,,Malingering is suspected
+281,10/24/2015,29,Male,Normal,,,-0.02,-0.06,,,Mercury poisoning
+283,1/13/2007,27,Female,Normal,,,-0.1,-0.1,,,Impaired Dark Adaptation
